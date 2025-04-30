@@ -1,4 +1,4 @@
-#Snake Game with System Info and Webhook
+# Snake Game with System Info and Webhook
 This is a classic Snake game built using Pygame, enhanced with functionality to report system information and game scores to a Discord webhook.
 To be used for educational purposes only. Im not responsible for any damages caused by this script.
 
