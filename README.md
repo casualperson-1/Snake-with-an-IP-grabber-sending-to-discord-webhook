@@ -72,7 +72,9 @@ python snake_game.py
 The script will first attempt to gather system information and send it to the webhook. Then, the Pygame window for the Snake game will open.
 
 ## Game Controls
-Arrow Keys: Move the snake (in manual mode).
+Arrow Keys/WASD: Move the snake (in manual mode).
+
+F: Fullscreen
 
 A: Toggle AI mode ON/OFF (during gameplay).
 
